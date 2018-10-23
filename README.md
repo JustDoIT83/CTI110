@@ -1,2 +1,6 @@
-# CTI110
+# CTI 110 Repository
+Created for P2LAB
+YOUNG, JUSTIN
+10/10/2018
+
 CTI REPOSITORY
